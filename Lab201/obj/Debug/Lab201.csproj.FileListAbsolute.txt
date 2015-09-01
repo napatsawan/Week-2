@@ -1,0 +1,4 @@
+E:\oop\lab_week2\Lab201\bin\Debug\Lab201.exe
+E:\oop\lab_week2\Lab201\bin\Debug\Lab201.pdb
+E:\oop\lab_week2\Lab201\obj\Debug\Lab201.exe
+E:\oop\lab_week2\Lab201\obj\Debug\Lab201.pdb

@@ -1,0 +1,5 @@
+E:\oop\lab_week2\Lab202\bin\Debug\Lab202.exe
+E:\oop\lab_week2\Lab202\bin\Debug\Lab202.pdb
+E:\oop\lab_week2\Lab202\obj\Debug\Lab202.exe
+E:\oop\lab_week2\Lab202\obj\Debug\Lab202.pdb
+E:\oop\lab_week2\Lab202\obj\Debug\Lab202.csprojResolveAssemblyReference.cache
